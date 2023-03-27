@@ -1,0 +1,42 @@
+<div class="container">
+  <h1 class="mb-4">Team Randomizer</h1>
+
+  <!-- Player names input -->
+  <div class="row mb-3" *ngFor="let player of team; let i = index">
+    <div class="col">
+      <label for="player-name-{{i}}" class="form-label">Player {{i + 1}} Name:</label>
+      <input [(ngModel)]="player.name" id="player-name-{{i}}" class="form-control" placeholder="Enter player name">
+    </div>
+  </div>
+
+  <!-- Lane-specific or full random champion option -->
+  <label>
+    Lane Specific:
+    <input type="checkbox" [(ngModel)]="laneSpecific" />
+  </label>
+
+  <!-- Generate random champions button -->
+  <div class="mb-4">
+    <button (click)="generateRandomChampions()" class="btn btn-primary">Generate Random Champions</button>
+  </div>
+
+  <!-- Display generated champions -->
+  <table *ngIf="generated" class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th>Player</th>
+        <th>Name</th>
+        <th>Lane</th>
+        <th>Champion</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let player of team">
+        <td>{{ player.player }}</td>
+        <td>{{ player.name }}</td>
+        <td>{{ player.lane }}</td>
+        <td>{{ player.champion }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
