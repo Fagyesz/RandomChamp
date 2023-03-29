@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Aatrox",
+    "lane": "Top"
+  },
+  {
+    "name": "Ahri",
+    "lane": "Mid"
+  },
+  {
+    "name": "Akali",
+    "lane": "Mid"
+  },
+  {
+    "name": "Alistar",
+    "lane": "Support"
+  },
+  {
+    "name": "Amumu",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Anivia",
+    "lane": "Mid"
+  },
+  {
+    "name": "Annie",
+    "lane": "Mid"
+  },
+  {
+    "name": "Aphelios",
+    "lane": "ADC"
+  },
+  {
+    "name": "Ashe",
+    "lane": "ADC"
+  },
+  {
+    "name": "Aurelion Sol",
+    "lane": "Mid"
+  },
+  {
+    "name": "Azir",
+    "lane": "Mid"
+  },
+  {
+    "name": "Bard",
+    "lane": "Support"
+  },
+  {
+    "name": "Blitzcrank",
+    "lane": "Support"
+  },
+  {
+    "name": "Brand",
+    "lane": "Support"
+  },
+  {
+    "name": "Braum",
+    "lane": "Support"
+  },
+  {
+    "name": "Caitlyn",
+    "lane": "ADC"
+  },
+  {
+    "name": "Camille",
+    "lane": "Top"
+  },
+  {
+    "name": "Cassiopeia",
+    "lane": "Mid"
+  },
+  {
+    "name": "Cho'Gath",
+    "lane": "Top"
+  },
+  {
+    "name": "Corki",
+    "lane": "Mid"
+  },
+  {
+    "name": "Darius",
+    "lane": "Top"
+  },
+  {
+    "name": "Diana",
+    "lane": "Mid"
+  },
+  {
+    "name": "Dr. Mundo",
+    "lane": "Top"
+  },
+  {
+    "name": "Draven",
+    "lane": "ADC"
+  },
+  {
+    "name": "Ekko",
+    "lane": "Mid"
+  },
+  {
+    "name": "Elise",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Evelynn",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Ezreal",
+    "lane": "ADC"
+  },
+  {
+    "name": "Fiddlesticks",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Fiora",
+    "lane": "Top"
+  },
+  {
+    "name": "Fizz",
+    "lane": "Mid"
+  },
+  {
+    "name": "Galio",
+    "lane": "Mid"
+  },
+  {
+    "name": "Gangplank",
+    "lane": "Top"
+  },
+  {
+    "name": "Garen",
+    "lane": "Top"
+  },
+  {
+    "name": "Gnar",
+    "lane": "Top"
+  },
+  {
+    "name": "Gragas",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Graves",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Gwen",
+    "lane": "Top"
+  },
+  {
+    "name": "Hecarim",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Heimerdinger",
+    "lane": "Mid"
+  },
+  {
+    "name": "Illaoi",
+    "lane": "Top"
+  },
+  {
+    "name": "Irelia",
+    "lane": "Top"
+  },
+  {
+    "name": "Ivern",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Janna",
+    "lane": "Support"
+  },
+  {
+    "name": "Jarvan IV",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Jax",
+    "lane": "Top"
+  },
+  {
+    "name": "Jayce",
+    "lane": "Top"
+  },
+  {
+    "name": "Jhin",
+    "lane": "ADC"
+  },
+  {
+    "name": "Jinx",
+    "lane": "ADC"
+  },
+  {
+    "name": "Kai'Sa",
+    "lane": "ADC"
+  },
+  {
+    "name": "Kalista",
+    "lane": "ADC"
+  },
+  {
+    "name": "Karma",
+    "lane": "Support"
+  },
+  {
+    "name": "Karthus",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Kassadin",
+    "lane": "Mid"
+  },
+  {
+    "name": "Katarina",
+    "lane": "Mid"
+  },
+  {
+    "name": "Kayle",
+    "lane": "Top"
+  },
+  {
+    "name": "Kayn",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Kennen",
+    "lane": "Top"
+  },
+  {
+    "name": "Kha'Zix",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Kindred",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Kled",
+    "lane": "Top"
+  },
+  {
+    "name": "Kog'Maw",
+    "lane": "ADC"
+  },
+  {
+    "name": "LeBlanc",
+    "lane": "Mid"
+  },
+  {
+    "name": "Lee Sin",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Leona",
+    "lane": "Support"
+  },
+  {
+    "name": "Lillia",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Lissandra",
+    "lane": "Mid"
+  },
+  {
+    "name": "Lucian",
+    "lane": "ADC"
+  },
+  {
+    "name": "Lulu",
+    "lane": "Support"
+  },
+  {
+    "name": "Lux",
+    "lane": "Support"
+  },
+  {
+    "name": "Malphite",
+    "lane": "Top"
+  },
+  {
+    "name": "Malzahar",
+    "lane": "Mid"
+  },
+  {
+    "name": "Maokai",
+    "lane": "Top"
+  },
+  {
+    "name": "Master Yi",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Miss Fortune",
+    "lane": "ADC"
+  },
+  {
+    "name": "Mordekaiser",
+    "lane": "Top"
+  },
+  {
+    "name": "Morgana",
+    "lane": "Support"
+  },
+  {
+    "name": "Nami",
+    "lane": "Support"
+  },
+  {
+    "name": "Nasus",
+    "lane": "Top"
+  },
+  {
+    "name": "Nautilus",
+    "lane": "Support"
+  },
+  {
+    "name": "Neeko",
+    "lane": "Mid"
+  },
+  {
+    "name": "Nidalee",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Nocturne",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Nunu & Willump",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Olaf",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Orianna",
+    "lane": "Mid"
+  },
+  {
+    "name": "Ornn",
+    "lane": "Top"
+  },
+  {
+    "name": "Pantheon",
+    "lane": "Top"
+  },
+  {
+    "name": "Poppy",
+    "lane": "Top"
+  },
+  {
+    "name": "Pyke",
+    "lane": "Support"
+  },
+  {
+    "name": "Qiyana",
+    "lane": "Mid"
+  },
+  {
+    "name": "Quinn",
+    "lane": "Top"
+  },
+  {
+    "name": "Rakan",
+    "lane": "Support"
+  },
+  {
+    "name": "Rammus",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Rek'Sai",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Renekton",
+    "lane": "Top"
+  },
+  {
+    "name": "Rengar",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Riven",
+    "lane": "Top"
+  },
+  {
+    "name": "Rumble",
+    "lane": "Top"
+  },
+  {
+    "name": "Ryze",
+    "lane": "Mid"
+  },
+  {
+    "name": "Samira",
+    "lane": "ADC"
+  },
+  {
+    "name": "Sejuani",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Senna",
+    "lane": "ADC"
+  },
+  {
+    "name": "Seraphine",
+    "lane": "Mid"
+  },
+  {
+    "name": "Sett",
+    "lane": "Top"
+  },
+  {
+    "name": "Shaco",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Shen",
+    "lane": "Top"
+  },
+  {
+    "name": "Shyvana",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Singed",
+    "lane": "Top"
+  },
+  {
+    "name": "Sion",
+    "lane": "Top"
+  },
+  {
+    "name": "Sivir",
+    "lane": "ADC"
+  },
+  {
+    "name": "Skarner",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Sona",
+    "lane": "Support"
+  },
+  {
+    "name": "Soraka",
+    "lane": "Support"
+  },
+  {
+    "name": "Swain",
+    "lane": "Mid"
+  },
+  {
+    "name": "Sylas",
+    "lane": "Mid"
+  },
+  {
+    "name": "Syndra",
+    "lane": "Mid"
+  },
+  {
+    "name": "Tahm Kench",
+    "lane": "Support"
+  },
+  {
+    "name": "Taliyah",
+    "lane": "Mid"
+  },
+  {
+    "name": "Talon",
+    "lane": "Mid"
+  },
+  {
+    "name": "Taric",
+    "lane": "Support"
+  },
+  {
+    "name": "Teemo",
+    "lane": "Top"
+  },
+  {
+    "name": "Thresh",
+    "lane": "Support"
+  },
+  {
+    "name": "Tristana",
+    "lane": "ADC"
+  },
+  {
+    "name": "Trundle",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Tryndamere",
+    "lane": "Top"
+  },
+  {
+    "name": "Twisted Fate",
+    "lane": "Mid"
+  },
+  {
+    "name": "Twitch",
+    "lane": "ADC"
+  },
+  {
+    "name": "Udyr",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Urgot",
+    "lane": "Top"
+  },
+  {
+    "name": "Varus",
+    "lane": "ADC"
+  },
+  {
+    "name": "Vayne",
+    "lane": "ADC"
+  },
+  {
+    "name": "Veigar",
+    "lane": "Mid"
+  },
+  {
+    "name": "Vel'Koz",
+    "lane": "Support"
+  },
+  {
+    "name": "Vi",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Viktor",
+    "lane": "Mid"
+  },
+  {
+    "name": "Vladimir",
+    "lane": "Mid"
+  },
+  {
+    "name": "Volibear",
+    "lane": "Top"
+  },
+  {
+    "name": "Warwick",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Wukong",
+    "lane": "Top"
+  },
+  {
+    "name": "Xayah",
+    "lane": "ADC"
+  },
+  {
+    "name": "Xerath",
+    "lane": "Mid"
+  },
+  {
+    "name": "Xin Zhao",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Yasuo",
+    "lane": "Mid"
+  },
+  {
+    "name": "Yone",
+    "lane": "Mid"
+  },
+  {
+    "name": "Yorick",
+    "lane": "Top"
+  },
+  {
+    "name": "Yuumi",
+    "lane": "Support"
+  },
+  {
+    "name": "Zac",
+    "lane": "Jungle"
+  },
+  {
+    "name": "Zed",
+    "lane": "Mid"
+  },
+  {
+    "name": "Ziggs",
+    "lane": "Mid"
+  },
+  {
+    "name": "Zilean",
+    "lane": "Support"
+  },
+  {
+    "name": "Zoe",
+    "lane": "Mid"
+  },
+  {
+    "name": "Milio",
+    "lane": "Support"
+  }
+]
