@@ -8,6 +8,8 @@ import { AppComponent } from './app.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { PageNotFoundComponentComponent } from './page-not-found-component/page-not-found-component.component';
 import { RandomChampionsComponent } from './random-champions/random-champions.component';
+import { NavComponent } from './components/nav/nav.component';
+import { ContentComponent } from './components/content/content.component';
 
 
 @NgModule({
@@ -15,7 +17,9 @@ import { RandomChampionsComponent } from './random-champions/random-champions.co
     AppComponent,
     HomePageComponent,
     PageNotFoundComponentComponent,
-    RandomChampionsComponent
+    RandomChampionsComponent,
+    NavComponent,
+    ContentComponent
   ],
   imports: [
     BrowserModule,
