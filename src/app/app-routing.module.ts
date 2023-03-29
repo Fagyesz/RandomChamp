@@ -7,7 +7,7 @@ import { RandomChampionsComponent } from './random-champions/random-champions.co
 
 const routes: Routes = [
   { path: '', component: HomePageComponent },
-  { path: 'random-champions', component: RandomChampionsComponent },
+  { path: 'random', component: RandomChampionsComponent },
   { path: '**', component: PageNotFoundComponentComponent }
 ];
 

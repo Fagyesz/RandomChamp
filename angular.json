@@ -28,7 +28,7 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-               "src/assets/champions.json",
+              "src/assets/champions.json",
               "src/assets"
             ],
             "styles": [
