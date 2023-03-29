@@ -20,6 +20,11 @@ export class RandomChampionsComponent implements OnInit {
   laneSpecific: boolean = true;
   generated: boolean = false;
 
+  showInputForm = true;
+
+  toggleInputForm() {
+    this.showInputForm = !this.showInputForm;
+  }
   constructor(private championsService: ChampionsService) {}
 
   ngOnInit(): void {

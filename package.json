@@ -9,6 +9,7 @@
     "start:docker": "docker run --name angular-codespace -d -p 8080:80 angular-codespace",
     "build": "ng build --base-href angular-codespace",
     "build:docker": "ng build && docker build . -t angular-codespace",
+    "deploy": "ng build --configuration production --output-path docs --base-href /RandomChamp/ && cd docs && cp index.html 404.html && git add . && git commit -m \"Deploy to GitHub Pages\" && git push",
     "watch": "ng build --watch --configuration development",
     "test": "ng test --browsers=Headless --no-watch",
     "lint": "ng lint"
